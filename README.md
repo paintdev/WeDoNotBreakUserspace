@@ -4,7 +4,7 @@ Just run main.py lol
 
 ## This shouldn't harm your computer, but it may cause lag, especially on low-RAM machines
 
-It doesn't overwrite MBR or stuff like that but loops a py file, being davirus.py
+It doesn't do anything harmful but it does slow down your computer whilst it is open
 
 ### There is a risk of this software crashing your PC
 
